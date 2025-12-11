@@ -22,5 +22,5 @@ I will flash custom software in arduino for the lights to match the average colo
 |Data Wire(24 AWG)  |1m      |0.20$       |0.50$                      |https://quartzcomponents.com/products/24awg-silicone-wire-red-1-meter-high-quality-ultra-flexible-for-battery-packs  |
 |Terminal Blocks    |3       |0.05$       |0.20$                      |https://quartzcomponents.com/products/3-pin-pcb-mount-terminal-block-screw-type?_pos=1&_sid=d264533dd&_ss=r          |
 |                   |        |            |                           |                                                                                                                     |
-|                   |        |TOTAL       |20$ approx                 |                                                                                                                     |
+|                   |        |TOTAL       |18$ approx                 |                                                                                                                     |
 
