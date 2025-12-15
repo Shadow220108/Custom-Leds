@@ -1,12 +1,16 @@
 # Custom-Leds  
 ## This is a very small and basic project for my setup  
 It consists of addressable leds powered by arduino  
-I have designed the schematics and not the pcb cause the components can easily be hand wired and do not require a case  
 This will look something like this when completed  
 ![lights](lights.jpeg)  
 
 # Here is the schematics for it  
 ![schematics](PCB/schematics.png)  
+
+# Here is the PCB for this project  
+![PCB](PCB.png)  
+And a 3D View  
+![3DView](3dView.png)
 
 I will flash custom software in arduino for the lights to match the average color of my laptop to give it a cool look , for now there is the basic firmware for it work  
 
